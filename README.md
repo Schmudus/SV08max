@@ -1,8 +1,3 @@
-# Klipper-Backup 💾 
-Klipper backup script for manual or automated GitHub backups 
-
-This backup is provided by [Klipper-Backup](https://github.com/Staubgeborener/Klipper-Backup).
-
 # Config Files for my Sovol SV08max 💾 
 
 My printer is modified with:
@@ -16,3 +11,7 @@ My printer is modified with:
 Firmware:
 - Kalico: bleeding edgye v2 (https://github.com/KalicoCrew/kalico)
 - eddy-ng with tap (probe is still the Sovol) (https://github.com/vvuk/eddy-ng/wiki/)
+
+
+
+This backup is provided by [Klipper-Backup](https://github.com/Staubgeborener/Klipper-Backup).
