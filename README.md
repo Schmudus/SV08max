@@ -12,5 +12,5 @@ My printer is modified with:
 - Meanwell 350-24 power supply
 - The heatbed relais stay same (Sovol)
 
-  Firmware:
-  - Kalico: bleeding edgye v2
+Firmware:
+- Kalico: bleeding edgye v2
