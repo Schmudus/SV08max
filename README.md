@@ -8,7 +8,7 @@ This backup is provided by [Klipper-Backup](https://github.com/Staubgeborener/Kl
 My printer is modified with:
 - BTT Octopus pro v1.1 mainboard
 - Raspberry Pi 4b Host
-- CAN hat with 2-channel CAN
+- CAN hat with 2-channel CAN (https://www.waveshare.com/wiki/2-CH_CAN_HAT)
 - BTT SKSM module
 - Meanwell 350-24 power supply
 - The heatbed SSR is original (Sovol)
