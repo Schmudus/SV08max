@@ -14,4 +14,4 @@ Find documentation in the Documents branch
 - Using custom feeder macros (continious feeding instead of push/wait) (https://github.com/Chineko-Koizumi/SV08MAXCustomFeeder/)
 <br/><br/>
 ### This backup is provided by [Klipper-Backup](https://github.com/Staubgeborener/Klipper-Backup).
-### Thanks to Vladimir Vukicevic (https://github.com/vvuk) for finding how to flash the Sovol boards.
+### Thanks to Vladimir Vukicevic (https://github.com/vvuk) for figuring out how to flash the Sovol boards.
