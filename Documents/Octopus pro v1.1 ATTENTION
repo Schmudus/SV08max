@@ -1,0 +1,14 @@
+V1.1 is to solve the problem of Hotend port being continuously enabled in the STM32H723 version dfu mode
+
+Changes in V1.1 compared to V1.0
+Pinout changes
+
+Title	Octopus Pro V1.0/V1.0.1	Octopus Pro V1.1
+HE0	PA2	PA0
+HE2	PB10	PB0
+Motor4-EN	PA0	PA2
+RGB	PB0	PB10
+CAN bus interface sub model
+
+Octopus Pro V1.0/V1.0.1	Octopus Pro V1.1
+RJ11	XH2.54*2Pin
