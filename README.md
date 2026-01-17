@@ -10,7 +10,7 @@ My printer is modified with:
 - Raspberry Pi 4b Host
 - BTT SKSM module
 - Meanwell 350-24 power supply
-- The heatbed relais stay same (Sovol)
+- The heatbed SSR is original (Sovol)
 
 Firmware:
 - Kalico: bleeding edgye v2
