@@ -14,3 +14,4 @@ My printer is modified with:
 
 Firmware:
 - Kalico: bleeding edgye v2
+- eddy-ng with tap (probe is still the Sovol)
