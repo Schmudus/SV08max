@@ -1,6 +1,5 @@
 # Config Files for my Sovol SV08max 💾 
-# Find documention in the Documentation branch
-<br/><br/>
+Find documentation in the Documents branch
 ## My printer is modified with:
 - BTT Octopus pro v1.1 mainboard (https://github.com/bigtreetech/BIGTREETECH-OCTOPUS-Pro)
 - Raspberry Pi 4b Host
@@ -8,7 +7,7 @@
 - BTT SKSM module (https://github.com/bigtreetech/SKSM)
 - Meanwell 350-24 power supply
 - The heatbed SSR is original (Sovol)
-<br/>
+
 ## Firmware:
 - Kalico: bleeding edgye v2 (https://github.com/KalicoCrew/kalico)
 - eddy-ng with tap (probe is still the Sovol) (https://github.com/vvuk/eddy-ng/wiki/)
