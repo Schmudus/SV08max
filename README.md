@@ -7,7 +7,7 @@ Find documentation in the Documents branch
 - BTT SKSM module (https://github.com/bigtreetech/SKSM)
 - Meanwell 350-24 power supply
 - The heatbed SSR is original (Sovol)
-
+<br/><br/>
 ## Firmware:
 - Kalico: bleeding edgye v2 (https://github.com/KalicoCrew/kalico)
 - eddy-ng with tap (probe is still the Sovol) (https://github.com/vvuk/eddy-ng/wiki/)
@@ -15,3 +15,7 @@ Find documentation in the Documents branch
 <br/><br/>
 ### This backup is provided by [Klipper-Backup](https://github.com/Staubgeborener/Klipper-Backup).
 ### Thanks to Vladimir Vukicevic (https://github.com/vvuk) for figuring out how to flash the Sovol boards.
+<br/><br/>
+## Upcoming updates:
+- 36V Power supply for X and Y stepper motors (TMC5160 already in use)
+- Bondtech INDX with 6 nozzle
