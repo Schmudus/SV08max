@@ -7,9 +7,12 @@ Find documentation in the Documents branch
 - BTT SKSM module (https://github.com/bigtreetech/SKSM)
 - Meanwell 350-24 power supply
 - The heatbed SSR is original (Sovol)
+- Meanwell 350-36 (36V) power supply with TMC5160T pro for X and Y axis
+- TMC5160T for Z axes
+- Nudge pre-installed to determinate XY offset if INDX is installed
 <br/><br/>
 ## Firmware:
-- Kalico: bleeding edgye v2 (https://github.com/KalicoCrew/kalico)
+- Kalico: bleeding edge v2 (https://github.com/KalicoCrew/kalico)
 - eddy-ng with tap (probe is still the Sovol) (https://github.com/vvuk/eddy-ng/wiki/)
 - Using custom feeder macros (continious feeding instead of push/wait) (https://github.com/Chineko-Koizumi/SV08MAXCustomFeeder/)
 <br/><br/>
@@ -17,5 +20,5 @@ Find documentation in the Documents branch
 ### Thanks to Vladimir Vukicevic (https://github.com/vvuk) for figuring out how to flash the Sovol boards.
 <br/><br/>
 ## Upcoming updates:
-- 36V Power supply for X and Y stepper motors (TMC5160 already in use)
+
 - Bondtech INDX with 6 nozzle
