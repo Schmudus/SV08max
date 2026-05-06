@@ -20,7 +20,7 @@ Find documentation in the Documents branch
 - This backup is provided by [Klipper-Backup](https://github.com/Staubgeborener/Klipper-Backup).<br/>
 <br/><br/>
 ## Upcoming updates:
-
 - Bondtech INDX with 6 nozzle
+- <br/><br/>
 ## Files for INDX:
 - https://github.com/Schmudus/INDX-for-Sovol-SV08max
